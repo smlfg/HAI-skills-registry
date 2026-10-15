@@ -59,6 +59,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`prior-art-search`](./skills/engineering/prior-art-search/SKILL.md) | Mandatory reuse gate before building any new tool, script, agent, hook, integration, workflow or architecture. Searches internally, in official docs, and externally, then decides REUSE / INTEGRATE / ADAPT / BUILD LAST. Use before starting or dispatching a build. |
 | [`agentic-gate-verification`](./skills/engineering/agentic-gate-verification/SKILL.md) | Decide whether agentic work may proceed, be marked done, merge, or spawn more work. |
 | [`commit`](./skills/engineering/commit/SKILL.md) | Create atomic git commits with a secrets/artifact safety check, green tests, and explicit human approval per commit. |
+| [`eval`](./skills/engineering/eval/SKILL.md) | Run real tests or evals against a plan file, store results per version and compare with the previous baseline. |
 
 <!-- INDEX:END -->
 
