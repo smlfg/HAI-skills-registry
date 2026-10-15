@@ -99,6 +99,12 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`pdf-to-md`](./skills/learning/pdf-to-md/SKILL.md) | Convert PDFs (lecture slides, scripts, books) into clean Markdown/text an agent can read and search, with automatic fallback to Tesseract OCR for scanned PDFs. |
 | [`visual-explainer`](./skills/learning/visual-explainer/SKILL.md) | Generate self-contained HTML explainers with SVG diagrams and interactive step-by-step animations for algorithms, data structures, systems or concepts. |
 
+### Productivity
+
+| Skill | What it does |
+|---|---|
+| [`date`](./skills/productivity/date/SKILL.md) | Anchor every relative time expression to the real system clock (date, time, ISO week, day of year, timezone) before answering. |
+
 <!-- INDEX:END -->
 
 ## Principles behind these skills
