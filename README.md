@@ -75,6 +75,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`tiered-delegation`](./skills/orchestration/tiered-delegation/SKILL.md) | Token-gated multi-agent orchestration. A top-tier model handles intent, personalisation and the quality gate; a builder model produces the volume from a validated spec; the cheapest executor does mechanical work. |
 | [`agent-directory-lookup`](./skills/orchestration/agent-directory-lookup/SKILL.md) | Pick a delegation target only via a curated agent directory with tiers and allowed/forbidden capabilities, never by guessing from profile names. |
 | [`opencode-go-delegation`](./skills/orchestration/opencode-go-delegation/SKILL.md) | Delegate coding tasks to OpenCode (CLI or MCP) with deliberate model routing and a mandatory verification step. |
+| [`hermes-doctor`](./skills/orchestration/hermes-doctor/SKILL.md) | Diagnose and fix Hermes Agent provider / fallback-chain outages (no answer, 401/429 errors, stale or conflicting keys, misspelled provider aliases) across many profiles. |
 
 <!-- INDEX:END -->
 
