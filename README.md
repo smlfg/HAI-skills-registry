@@ -84,6 +84,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | Skill | What it does |
 |---|---|
 | [`automation-delivery`](./skills/automation/automation-delivery/SKILL.md) | Implement or extend an automation as small, complete functions, from verified current state through technical acceptance, with one writer per artifact and a rollback path. |
+| [`automation-verification`](./skills/automation/automation-verification/SKILL.md) | Technically verify an automation against concrete criteria and current state, proving the real effect including retries, failures, recovery and stop behaviour, scaled to risk. |
 
 <!-- INDEX:END -->
 
