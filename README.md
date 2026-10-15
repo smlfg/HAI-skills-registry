@@ -61,6 +61,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`commit`](./skills/engineering/commit/SKILL.md) | Create atomic git commits with a secrets/artifact safety check, green tests, and explicit human approval per commit. |
 | [`eval`](./skills/engineering/eval/SKILL.md) | Run real tests or evals against a plan file, store results per version and compare with the previous baseline. |
 | [`skilleval`](./skills/engineering/skilleval/SKILL.md) | Run the same task through several models or agents and score the artifacts against a pre-agreed, machine-checkable quality axis. |
+| [`cross-model-review`](./skills/engineering/cross-model-review/SKILL.md) | Get independent second, third and fourth opinions from different model families on a problem or solution, then synthesise convergence (validated) versus divergence (real decisions/upgrades). |
 
 <!-- INDEX:END -->
 
