@@ -63,6 +63,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`skilleval`](./skills/engineering/skilleval/SKILL.md) | Run the same task through several models or agents and score the artifacts against a pre-agreed, machine-checkable quality axis. |
 | [`cross-model-review`](./skills/engineering/cross-model-review/SKILL.md) | Get independent second, third and fourth opinions from different model families on a problem or solution, then synthesise convergence (validated) versus divergence (real decisions/upgrades). |
 | [`archify-swarm`](./skills/engineering/archify-swarm/SKILL.md) | Map a repository's architecture with several cheap/free models in parallel, verify every claimed file:line deterministically against the committed code, and compose ONE architecture map from the verified claims. |
+| [`subprocess-cli-pitfalls`](./skills/engineering/subprocess-cli-pitfalls/SKILL.md) | Diagnose Linux CLI commands that run in milliseconds in a terminal but hang or crawl when called via Python subprocess (or any non-TTY caller like cron or an agent). Root cause is almost always paginator behaviour, TTY detection, or output buffering. |
 
 <!-- INDEX:END -->
 
