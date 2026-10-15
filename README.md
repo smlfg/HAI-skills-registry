@@ -51,7 +51,12 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 ## Skills
 
 <!-- INDEX:START -->
-_No skills yet. They are added one commit at a time._
+
+### Engineering
+
+| Skill | What it does |
+|---|---|
+| [`prior-art-search`](./skills/engineering/prior-art-search/SKILL.md) | Mandatory reuse gate before building any new tool, script, agent, hook, integration, workflow or architecture. Searches internally, in official docs, and externally, then decides REUSE / INTEGRATE / ADAPT / BUILD LAST. Use before starting or dispatching a build. |
 
 <!-- INDEX:END -->
 
