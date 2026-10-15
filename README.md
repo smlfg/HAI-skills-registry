@@ -66,6 +66,12 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`subprocess-cli-pitfalls`](./skills/engineering/subprocess-cli-pitfalls/SKILL.md) | Diagnose Linux CLI commands that run in milliseconds in a terminal but hang or crawl when called via Python subprocess (or any non-TTY caller like cron or an agent). Root cause is almost always paginator behaviour, TTY detection, or output buffering. |
 | [`github-community-checklist`](./skills/engineering/github-community-checklist/SKILL.md) | Audit a GitHub repo's community health files (description, README, license, code of conduct, contributing, security policy, issue/PR templates). |
 
+### Orchestration
+
+| Skill | What it does |
+|---|---|
+| [`brief`](./skills/orchestration/brief/SKILL.md) | Turn a short, vague ask into a complete task contract (objective, artifact, done_criteria, non_goals, constraints, next_step, return_format, parking_lot) with strict cardinality rules. |
+
 <!-- INDEX:END -->
 
 ## Principles behind these skills
