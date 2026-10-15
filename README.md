@@ -76,6 +76,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`agent-directory-lookup`](./skills/orchestration/agent-directory-lookup/SKILL.md) | Pick a delegation target only via a curated agent directory with tiers and allowed/forbidden capabilities, never by guessing from profile names. |
 | [`opencode-go-delegation`](./skills/orchestration/opencode-go-delegation/SKILL.md) | Delegate coding tasks to OpenCode (CLI or MCP) with deliberate model routing and a mandatory verification step. |
 | [`hermes-doctor`](./skills/orchestration/hermes-doctor/SKILL.md) | Diagnose and fix Hermes Agent provider / fallback-chain outages (no answer, 401/429 errors, stale or conflicting keys, misspelled provider aliases) across many profiles. |
+| [`skill-import-from-machines`](./skills/orchestration/skill-import-from-machines/SKILL.md) | Import your own agent skills from several machines and harnesses (Claude Code, Codex, Hermes, others) into one shared skill library. Packs only known personal roots, stages them, filters personal vs marketplace, runs a secrets pass, and writes only after explicit approval. |
 
 <!-- INDEX:END -->
 
