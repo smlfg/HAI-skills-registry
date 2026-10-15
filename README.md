@@ -108,6 +108,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`find-past-ai-sessions`](./skills/productivity/find-past-ai-sessions/SKILL.md) | Hunt down an old ChatGPT, Claude, voice-recorder or agent session from fuzzy memory (a phrase, a person, a month) instead of a known URL. Connectors and full-text search first, UI scraping last. |
 | [`travel-operator-briefing`](./skills/productivity/travel-operator-briefing/SKILL.md) | Act as a live travel operator for an ongoing or upcoming train/public-transport journey. Monitor connections, optimise for speed, cost and robustness, respect existing tickets, and brief only NOW / NEXT / BACKUP. |
 | [`voice-walkthrough`](./skills/productivity/voice-walkthrough/SKILL.md) | Guide a user live in voice mode while they click through a UI or process themselves (dashboard, settings, form, console). They do one step, you explain it and name the next. |
+| [`read-aloud`](./skills/productivity/read-aloud/SKILL.md) | Read text aloud with a local neural TTS (Piper) instead of printing it, after converting it into speakable prose. |
 
 <!-- INDEX:END -->
 
