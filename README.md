@@ -60,6 +60,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`agentic-gate-verification`](./skills/engineering/agentic-gate-verification/SKILL.md) | Decide whether agentic work may proceed, be marked done, merge, or spawn more work. |
 | [`commit`](./skills/engineering/commit/SKILL.md) | Create atomic git commits with a secrets/artifact safety check, green tests, and explicit human approval per commit. |
 | [`eval`](./skills/engineering/eval/SKILL.md) | Run real tests or evals against a plan file, store results per version and compare with the previous baseline. |
+| [`skilleval`](./skills/engineering/skilleval/SKILL.md) | Run the same task through several models or agents and score the artifacts against a pre-agreed, machine-checkable quality axis. |
 
 <!-- INDEX:END -->
 
