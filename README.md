@@ -79,6 +79,12 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`skill-import-from-machines`](./skills/orchestration/skill-import-from-machines/SKILL.md) | Import your own agent skills from several machines and harnesses (Claude Code, Codex, Hermes, others) into one shared skill library. Packs only known personal roots, stages them, filters personal vs marketplace, runs a secrets pass, and writes only after explicit approval. |
 | [`skill-corpus-review`](./skills/orchestration/skill-corpus-review/SKILL.md) | Review an imported skill corpus across harnesses for coverage gaps, reusable patterns, and what's worth promoting to a shared library. Use after a multi-harness skill import, or when asked what's interesting or missing in a skill collection. |
 
+### Automation
+
+| Skill | What it does |
+|---|---|
+| [`automation-delivery`](./skills/automation/automation-delivery/SKILL.md) | Implement or extend an automation as small, complete functions, from verified current state through technical acceptance, with one writer per artifact and a rollback path. |
+
 <!-- INDEX:END -->
 
 ## Principles behind these skills
