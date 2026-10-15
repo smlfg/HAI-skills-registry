@@ -72,6 +72,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 |---|---|
 | [`brief`](./skills/orchestration/brief/SKILL.md) | Turn a short, vague ask into a complete task contract (objective, artifact, done_criteria, non_goals, constraints, next_step, return_format, parking_lot) with strict cardinality rules. |
 | [`thin-orchestrator-routing`](./skills/orchestration/thin-orchestrator-routing/SKILL.md) | Keep an expensive chat agent a thin orchestrator (intent, brief, quality gate) and route heavy multi-step work to cheaper worker harnesses on an always-on host. |
+| [`tiered-delegation`](./skills/orchestration/tiered-delegation/SKILL.md) | Token-gated multi-agent orchestration. A top-tier model handles intent, personalisation and the quality gate; a builder model produces the volume from a validated spec; the cheapest executor does mechanical work. |
 
 <!-- INDEX:END -->
 
