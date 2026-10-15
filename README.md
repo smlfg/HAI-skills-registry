@@ -88,6 +88,12 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`automation-handover`](./skills/automation/automation-handover/SKILL.md) | Hand a verified automation over to its users with a short explanation, a visible demo through the real UI, a demonstrated stop path, and one small user action they perform themselves. |
 | [`m365-pilot-browser-ops`](./skills/automation/m365-pilot-browser-ops/SKILL.md) | Run gated synthetic Microsoft 365 / Power Automate pilots in an existing signed-in browser session: inspect, connections, draft, publish, activate, test, one individually authorised gate at a time. |
 
+### Learning
+
+| Skill | What it does |
+|---|---|
+| [`coursepack`](./skills/learning/coursepack/SKILL.md) | Push an entire course folder into Google NotebookLM and generate prioritised study media (audio, video, study guide) per topic and per exercise sheet, driven by the learner's real gaps and exam dates. |
+
 <!-- INDEX:END -->
 
 ## Principles behind these skills
