@@ -97,6 +97,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`spoiler-free-shorts`](./skills/learning/spoiler-free-shorts/SKILL.md) | Add a short (60–90 s) NotebookLM video to each task of an existing interactive learning page, using a parallel example so the short never solves the task, then embed and verify it. |
 | [`podcast`](./skills/learning/podcast/SKILL.md) | Produce an audio podcast from source material (doc, text, link, topic) via Google NotebookLM's MCP server. |
 | [`pdf-to-md`](./skills/learning/pdf-to-md/SKILL.md) | Convert PDFs (lecture slides, scripts, books) into clean Markdown/text an agent can read and search, with automatic fallback to Tesseract OCR for scanned PDFs. |
+| [`visual-explainer`](./skills/learning/visual-explainer/SKILL.md) | Generate self-contained HTML explainers with SVG diagrams and interactive step-by-step animations for algorithms, data structures, systems or concepts. |
 
 <!-- INDEX:END -->
 
