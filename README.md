@@ -110,6 +110,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`travel-operator-briefing`](./skills/productivity/travel-operator-briefing/SKILL.md) | Act as a live travel operator for an ongoing or upcoming train/public-transport journey. Monitor connections, optimise for speed, cost and robustness, respect existing tickets, and brief only NOW / NEXT / BACKUP. |
 | [`voice-walkthrough`](./skills/productivity/voice-walkthrough/SKILL.md) | Guide a user live in voice mode while they click through a UI or process themselves (dashboard, settings, form, console). They do one step, you explain it and name the next. |
 | [`read-aloud`](./skills/productivity/read-aloud/SKILL.md) | Read text aloud with a local neural TTS (Piper) instead of printing it, after converting it into speakable prose. |
+| [`bedtime-story`](./skills/productivity/bedtime-story/SKILL.md) | Write a long, true-story bedtime chapter for the end of a good or a bad working day, so the user can put the day down without the nightly verdict on themselves. |
 
 <!-- INDEX:END -->
 
