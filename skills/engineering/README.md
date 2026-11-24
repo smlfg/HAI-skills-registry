@@ -3,6 +3,7 @@
 Skills for code work: reuse gates, verification, evals, commits, architecture maps, debugging.
 
 - **[prior-art-search](./prior-art-search/SKILL.md)**: Mandatory reuse gate before building any new tool, script, agent, hook, integration, workflow or architecture. Searches internally, in official docs, and externally, then decides REUSE / INTEGRATE / ADAPT / BUILD LAST. Use before starting or dispatching a build.
+- **[problem-class-tool-selection](./problem-class-tool-selection/SKILL.md)**: Classify the problem before choosing a tool or building code; compare the smallest viable approaches and justify reuse or custom implementation with evidence, including ML pipeline search.
 - **[agentic-gate-verification](./agentic-gate-verification/SKILL.md)**: Decide whether agentic work may proceed, be marked done, merge, or spawn more work.
 - **[commit](./commit/SKILL.md)**: Create atomic git commits with a secrets/artifact safety check, green tests, and explicit human approval per commit.
 - **[experiment-to-project](./experiment-to-project/SKILL.md)**: Turn an AI/agent experiment with several failed attempts into an evaluated, measurable project: grill-me post-mortem, one primary metric plus zero-guardrails, test bench before prototype, one change per measured run.
