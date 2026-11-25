@@ -99,6 +99,7 @@ Buckets: [Engineering](./skills/engineering/README.md), [Orchestration](./skills
 | [`podcast`](./skills/learning/podcast/SKILL.md) | Produce an audio podcast from source material (doc, text, link, topic) via Google NotebookLM's MCP server. |
 | [`pdf-to-md`](./skills/learning/pdf-to-md/SKILL.md) | Convert PDFs (lecture slides, scripts, books) into clean Markdown/text an agent can read and search, with automatic fallback to Tesseract OCR for scanned PDFs. |
 | [`visual-explainer`](./skills/learning/visual-explainer/SKILL.md) | Generate self-contained HTML explainers with SVG diagrams and interactive step-by-step animations for algorithms, data structures, systems or concepts. |
+| [`discourse-analysis`](./skills/learning/discourse-analysis/SKILL.md) | Analyze recorded conversations with computed language metrics, timestamped semantic passage maps, question–answer alignment and evidence-based communication coaching. |
 
 ### Productivity
 
