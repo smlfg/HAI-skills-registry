@@ -1,6 +1,7 @@
 ---
 name: m365-pilot-browser-ops
-description: Run gated synthetic Microsoft 365 / Power Automate pilots in an existing signed-in browser session: inspect, connections, draft, publish, activate, test, one individually authorised gate at a time. Use when operating a non-production M365 pilot through the browser.
+description: >-
+  Run gated synthetic Microsoft 365 / Power Automate pilots in an existing signed-in browser session: inspect, connections, draft, publish, activate, test, one individually authorised gate at a time. Use when operating a non-production M365 pilot through the browser.
 ---
 
 # M365 Pilot Browser Ops
