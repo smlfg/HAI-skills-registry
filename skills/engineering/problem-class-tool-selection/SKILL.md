@@ -1,6 +1,6 @@
 ---
 name: problem-class-tool-selection
-description: Classify an engineering problem before choosing a tool or building code. Identify established problem classes, compare the smallest viable approaches, and justify REUSE / INTEGRATE / ADAPT / BUILD LAST with evidence. Use when deciding build vs reuse, choosing a library, or replacing repeated agent-written experiments with deterministic evaluation.
+description: Classify an engineering problem before choosing a tool or building code. Identify established problem classes, compare the smallest viable approaches, and justify REUSE / INTEGRATE / ADAPT / BUILD LAST with evidence. Use when deciding build vs reuse, choosing a library, or replacing repeated agent-written experiments with deterministic evaluation. Use when choosing a tech stack.
 ---
 
 # Problem Class and Tool Selection
