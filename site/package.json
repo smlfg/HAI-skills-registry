@@ -1,0 +1,13 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test",
+    "build": "node build.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "markdown-it": "14.3.3",
+    "yaml": "2.9.1"
+  }
+}
