@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <meta name="description" content="{{description}}">
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="{{base}}style.css">
+  <script>try { document.documentElement.dataset.theme = localStorage.theme || ''; } catch {}</script>
+</head>
+<body>
+  <nav id="side" aria-label="Categories"></nav>
+  <main id="list">
+    <input id="search" type="search" placeholder="Search skills…  ( / )" aria-label="Search skills" autocomplete="off" spellcheck="false">
+    <div id="status" aria-live="polite"></div>
+    <ul id="cards"></ul>
+  </main>
+  <article id="detail">{{content}}</article>
+  <div id="toast" role="status" aria-live="assertive"></div>
+  <script src="{{base}}data.js"></script>
+  <script src="{{base}}app.js"></script>
+</body>
+</html>
